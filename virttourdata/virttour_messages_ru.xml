@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="ru_pano10_title"><![CDATA[1]]></data>
+  <data name="ru_spotpoint77_tooltip"><![CDATA[Лестница]]></data>
+
+
+  <data name="ru_pano11_title"><![CDATA[10]]></data>
+
+
+  <data name="ru_pano12_title"><![CDATA[11]]></data>
+  <data name="ru_spotpoint499_tooltip"><![CDATA[Второй этаж]]></data>
+
+
+  <data name="ru_pano13_title"><![CDATA[12]]></data>
+  <data name="ru_spotpoint505_tooltip"><![CDATA[Экспозиция 1]]></data>
+  <data name="ru_spotpoint758_tooltip"><![CDATA[Лестница]]></data>
+
+
+  <data name="ru_pano14_title"><![CDATA[13]]></data>
+  <data name="ru_spotpoint540_tooltip"><![CDATA[Экспозиция 1]]></data>
+  <data name="ru_spotpoint541_tooltip"><![CDATA[Экспозиция 2]]></data>
+  <data name="ru_spotpoint543_tooltip"><![CDATA[Весь обзор]]></data>
+
+
+  <data name="ru_pano15_title"><![CDATA[14]]></data>
+  <data name="ru_spotpoint506_tooltip"><![CDATA[Олтчники образования]]></data>
+  <data name="ru_spotpoint507_tooltip"><![CDATA[Экспозиция 1]]></data>
+  <data name="ru_spotpoint508_tooltip"><![CDATA[Экспозиция 2]]></data>
+  <data name="ru_spotpoint509_tooltip"><![CDATA[Весь обзор]]></data>
+  <data name="ru_spotpoint514_tooltip"><![CDATA[Выход на лестницу]]></data>
+
+
+  <data name="ru_pano16_title"><![CDATA[15]]></data>
+  <data name="ru_spotpoint511_tooltip"><![CDATA[Отличники образования]]></data>
+  <data name="ru_spotpoint512_tooltip"><![CDATA[Экспозиция 2]]></data>
+  <data name="ru_spotpoint513_tooltip"><![CDATA[Весь обзор]]></data>
+  <data name="ru_spotpoint515_tooltip"><![CDATA[Выход на лестницу]]></data>
+  <data name="ru_spotpoint1001_tooltip"><![CDATA[Беларуская газета]]></data>
+  <data name="ru_spotpoint1002_tooltip"><![CDATA[Награждение]]></data>
+  <data name="ru_spotpoint1003_tooltip"><![CDATA[Протокол допроса]]></data>
+  <data name="ru_spotpoint1004_tooltip"><![CDATA[Копия архивного документа]]></data>
+  <data name="ru_spotpoint1005_tooltip"><![CDATA[Автобиография]]></data>
+
+
+  <data name="ru_pano17_title"><![CDATA[16]]></data>
+  <data name="ru_spotpoint516_tooltip"><![CDATA[Экспозиция 1]]></data>
+  <data name="ru_spotpoint517_tooltip"><![CDATA[Отличники образования]]></data>
+  <data name="ru_spotpoint518_tooltip"><![CDATA[Весь обзор]]></data>
+  <data name="ru_spotpoint519_tooltip"><![CDATA[Выход на лестницу]]></data>
+  <data name="ru_spotpoint544_tooltip"><![CDATA[Экспозиция 3]]></data>
+  <data name="ru_spotpoint545_tooltip"><![CDATA[Медалисты школы]]></data>
+  <data name="ru_spotpoint546_tooltip"><![CDATA[Медалисты школы]]></data>
+
+
+  <data name="ru_pano18_title"><![CDATA[17]]></data>
+  <data name="ru_spotpoint521_tooltip"><![CDATA[Весь обзор]]></data>
+  <data name="ru_spotpoint522_tooltip"><![CDATA[Экспозиция 2]]></data>
+  <data name="ru_spotpoint524_tooltip"><![CDATA[Медалисты школы]]></data>
+  <data name="ru_spotpoint525_tooltip"><![CDATA[Медалисты школы]]></data>
+  <data name="ru_spotpoint759_tooltip"><![CDATA[Экспозиция 1]]></data>
+  <data name="ru_spotpoint760_tooltip"><![CDATA[Выход на лестницу]]></data>
+  <data name="ru_spotpoint761_tooltip"><![CDATA[Отличники образования]]></data>
+
+
+  <data name="ru_pano19_title"><![CDATA[18]]></data>
+  <data name="ru_spotpoint526_tooltip"><![CDATA[Медалисты школы]]></data>
+  <data name="ru_spotpoint527_tooltip"><![CDATA[Весь обзор]]></data>
+  <data name="ru_spotpoint528_tooltip"><![CDATA[Экспозиция 3]]></data>
+
+
+  <data name="ru_pano20_title"><![CDATA[19]]></data>
+  <data name="ru_spotpoint529_tooltip"><![CDATA[Медалисты школы]]></data>
+  <data name="ru_spotpoint530_tooltip"><![CDATA[Весь обзор]]></data>
+  <data name="ru_spotpoint531_tooltip"><![CDATA[Экспозиция 3]]></data>
+
+
+  <data name="ru_pano21_title"><![CDATA[2]]></data>
+
+
+  <data name="ru_pano22_title"><![CDATA[20]]></data>
+  <data name="ru_spotpoint532_tooltip"><![CDATA[Выход на лестницу]]></data>
+  <data name="ru_spotpoint533_tooltip"><![CDATA[Отличники образования]]></data>
+  <data name="ru_spotpoint535_tooltip"><![CDATA[Экспозиция 1]]></data>
+  <data name="ru_spotpoint536_tooltip"><![CDATA[Экспозиция 2]]></data>
+  <data name="ru_spotpoint537_tooltip"><![CDATA[Экспозиция 3]]></data>
+  <data name="ru_spotpoint538_tooltip"><![CDATA[Медалисты школы]]></data>
+  <data name="ru_spotpoint764_tooltip"><![CDATA[Медалисты школы]]></data>
+
+
+  <data name="ru_pano23_title"><![CDATA[3]]></data>
+
+
+  <data name="ru_pano24_title"><![CDATA[4]]></data>
+
+
+  <data name="ru_pano25_title"><![CDATA[5]]></data>
+
+
+  <data name="ru_pano26_title"><![CDATA[6]]></data>
+  <data name="ru_spotpoint342_tooltip"><![CDATA[Лестница]]></data>
+
+
+  <data name="ru_pano27_title"><![CDATA[7]]></data>
+
+
+  <data name="ru_pano28_title"><![CDATA[8]]></data>
+  <data name="ru_spotpoint457_tooltip"><![CDATA[Лестница]]></data>
+  <data name="ru_spotpoint458_tooltip"><![CDATA[Лестница]]></data>
+
+
+  <data name="ru_pano29_title"><![CDATA[9]]></data>
+  <data name="ru_spotpoint459_tooltip"><![CDATA[Лестница]]></data>
+  <data name="ru_spotpoint460_tooltip"><![CDATA[Лестница]]></data>
+  <data name="ru_spotpoint461_tooltip"><![CDATA[Лестница]]></data>
+
+
+  <data name="ru_pano991_title"><![CDATA[43]]></data>
+  <data name="ru_spotpoint1008_tooltip"><![CDATA[Назад]]></data>
+
+
+  <data name="ru_pano993_title"><![CDATA[Скан_20230504]]></data>
+  <data name="ru_spotpoint1009_tooltip"><![CDATA[Назад]]></data>
+
+
+  <data name="ru_pano995_title"><![CDATA[Скан_20230504_8]]></data>
+  <data name="ru_spotpoint1007_tooltip"><![CDATA[Назад]]></data>
+
+
+  <data name="ru_pano997_title"><![CDATA[Скан_20230504_10]]></data>
+  <data name="ru_spotpoint1010_tooltip"><![CDATA[Назад]]></data>
+
+
+  <data name="ru_pano999_title"><![CDATA[Скан_20230504_42]]></data>
+  <data name="ru_spotpoint1011_tooltip"><![CDATA[Назад]]></data>
+
+
+	<data name="ru_spotmap1212_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1213_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1214_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1215_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1216_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1217_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1218_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1219_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1220_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1221_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1222_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1223_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1224_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1225_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1226_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1227_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1228_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1229_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1230_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1231_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="ru_buttontooltip"><![CDATA[]]></data>
+  <data name="ru_buttonPdfViewer|PdfViewer|displaypdfpdf_title"><![CDATA[]]></data>
+  <data name="ru_PdfViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="ru_PdfViewerclose_text"><![CDATA[Close]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
